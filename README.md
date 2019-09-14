@@ -1,8 +1,8 @@
 ## Don't feel you aren't smart enough
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
-- [***oo] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [**ooo] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
-- [**ooo] [Believe you can change](http://www.aaronsw.com/weblog/dweck)
+- [***__] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [**___] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+- [**___] [Believe you can change](http://www.aaronsw.com/weblog/dweck)
 - [*****][Think you're not smart enough to work at Google? Well, think again](https://www.youtube.com/watch?v=uPOJ1PR50ag)
 
 
